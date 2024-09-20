@@ -1,0 +1,8 @@
+.vs
+out
+[Bb]uild
+
+proto/*.grpc.pb.cc
+proto/*.grpc.pb.h
+proto/*.pb.cc
+proto/*.pb.h
